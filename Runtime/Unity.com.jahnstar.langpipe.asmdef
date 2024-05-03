@@ -1,0 +1,16 @@
+{
+    "name": "Unity.com.jahnstar.langpipe",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0a4cc2653143c94aab2c2a839882a1df"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
