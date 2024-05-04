@@ -8,7 +8,7 @@
   },
   "version": "0.0.2",
   "unity": "2022.3",
-  "description": "</> by Halil Emre Yildiz\n\n~v0.0.2~\nAdded: Gemini AI (Vertex AI) support\nAdded: Android support",
+  "description": "Contributed\n- Halil Emre Yildiz\n\n~v0.0.2~\nAdded: Gemini AI (Vertex AI) support\nAdded: Android support",
   "unityRelease": "20f1",
   "changelog": [
     {
