@@ -1,6 +1,6 @@
 # LangPipe AI
 
-Welcome to LangPipe, an intuitive and lightweight plugin for integrating Large Language Models (LLM) into Unity and other C# projects. Despite being primarily designed for Unity, LangPipe has no dependencies on Unity, making it broadly applicable to any C# project.
+Introducing LangPipe, a new software framework for integrating Large Language Models (LLMs) into C# projects, including Unity. It is a user-friendly and basic framework developed as an alternative to LangChain for C#. LangPipe is currently in its early development stages and offers a simple framework without complex language features. However, it is optimized for Unity and can be used in various .NET projects. LangPipe supports multiple AI APIs, such as OpenAI, Gemini AI, and Vertex AI.
 
 ## Current and Planned Features:
 
@@ -116,10 +116,6 @@ public class ChatSummaryMemoryChainExample : MonoBehaviour
 
 *More examples are provided within the package to help you understand and utilize the full capabilities of LangPipe. 
 You can find these [examples](https://github.com/Jahn-Star-Games/LangPipe-AI/tree/master/Runtime/Samples)*
-
-### Usage
-
-To use LangPipe in your project, simply reference the `JahnStarGames.Langpipe` namespace, create instances of the model you need, and call the relevant methods asynchronously to interact with the chosen LLM provider.
 
 ## Supported LLM Providers
 
